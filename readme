@@ -1,1 +1,4 @@
-
+ Deep Convolutional Neural Network
+ - First model 
+ - Model with data augmentation
+ - Transfer Learning - model VGG16, val_acc: 90%
